@@ -146,8 +146,6 @@ public class LancamentoController {
 	
 
 	
-	
-	
 	private Lancamento converter(LancamentoDto dto) {
 		Lancamento lancamento = new Lancamento();
 		
